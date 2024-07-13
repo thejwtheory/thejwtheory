@@ -5,7 +5,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejwtheory&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thejwtheory.thejwtheory" alt="Visitor Badge" width="200"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thejwtheory.thejwtheory" alt="Visitor Badge" width="125"/>
 </p>
 
 
@@ -44,3 +44,6 @@ I'm a passionate developer, writer, and Christian faith-based individual from Co
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+#### 👇🏼Information Nexus 👇🏼  
+![Link Tree Information Portal](https://linktr.ee/thejwtheory)
+  
